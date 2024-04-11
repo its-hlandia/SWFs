@@ -1,7 +1,7 @@
 {
-    "socket.url": "wss://nitro.YOUR-DOMAIN:2096",
-    "asset.url": "https://YOUR-DOMAIN/client/nitro/nitro-assets",
-    "flash.asset.url": "https://YOUR-DOMAIN/client/flash",
+    "socket.url": "wss://ws.hlandia.eu:2096",
+    "asset.url": "https://cdn.jsdelivr.net/gh/its-hlandia/SWFs@main/client/nitro/nitro-assets",
+    "flash.asset.url": "https://cdn.jsdelivr.net/gh/its-hlandia/SWFs@main/client/flash",
     "image.library.url": "${flash.asset.url}/c_images/",
     "hof.furni.url": "${flash.asset.url}/dcr/hof_furni",
     "images.url": "${asset.url}/images",
