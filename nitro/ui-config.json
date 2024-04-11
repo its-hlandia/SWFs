@@ -1,7 +1,7 @@
 {
     "image.library.notifications.url": "${image.library.url}notifications/%image%.png",
     "achievements.images.url": "${image.library.url}Quests/%image%.png",
-    "camera.url": "https://cdn.jsdelivr.net/gh/its-hlandia/SWFs@main/client/camera",
+    "camera.url": "https://YOUR-DOMAIN/client/camera",
     "thumbnails.url": "${camera.url}/thumbnails/%thumbnail%.png",
     "url.prefix": "https://YOUR-DOMAIN",
     "habbopages.url": "${url.prefix}/",
