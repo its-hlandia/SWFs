@@ -1,5 +1,5 @@
 {
-    "socket.url": "wss://ws.hlandia.eu:2096",
+    "socket.url": "wss://emulator.hlandia.eu:2096",
     "asset.url": "https://cdn.jsdelivr.net/gh/its-hlandia/SWFs@main/nitro/nitro-assets",
     "flash.asset.url": "https://cdn.jsdelivr.net/gh/its-hlandia/SWFs@main/flash",
     "image.library.url": "${flash.asset.url}/c_images/",
